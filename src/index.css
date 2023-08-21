@@ -1,0 +1,22 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url("./assets/fonts/PressStart2P-Regular.ttf");
+}
+
+.win-square-x {
+    color: white !important;
+    background-color: #38A169 !important;
+}
+
+.win-square-o {
+    color: white !important;
+    background-color: #E53E3E !important;
+}
+
+.score-increment {
+    transform: scale(3) !important;
+}
+
+.chakra-alert * {
+    font-size: 14px;
+}
